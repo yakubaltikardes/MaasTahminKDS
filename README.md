@@ -48,7 +48,6 @@ Bu projeyi kendi yerel ortamınızda test etmek ve analizleri incelemek için a�
 Öncelikle projeyi bilgisayarınıza indirin (Klonlayın) ve proje dizinine gidin
 
    ```bash
-   ```bash
     git clone [https://github.com/yakubaltikardes/MaasTahminKDS.git](https://github.com/yakubaltikardes/MaasTahminKDS.git)
     cd MaasTahminKDS
 
@@ -58,7 +57,7 @@ Bu projeyi kendi yerel ortamınızda test etmek ve analizleri incelemek için a�
 
 3. Analizi Başlatma
     ```bash
-    jupyter notebook```
+    jupyter notebook
 
 Açılan arayüzden Algoritma.ipynb dosyasını seçerek tüm hücreleri sırasıyla çalıştırabilirsiniz.
 

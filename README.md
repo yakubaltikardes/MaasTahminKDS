@@ -44,7 +44,7 @@ Model, aşağıdaki parametreleri girdi olarak kullanarak **Yıllık Gelir** tah
 
 Bu projeyi kendi yerel ortamınızda test etmek ve analizleri incelemek için aşağıdaki adımları izleyebilirsiniz:
 
-### 1. Hazırlık
+## 1. Hazırlık
 Öncelikle projeyi bilgisayarınıza indirin (Klonlayın) ve proje dizinine gidin:
 ```bash
 git clone [https://github.com/yakubaltikardes/MaasTahminKDS.git](https://github.com/yakubaltikardes/MaasTahminKDS.git)

@@ -44,15 +44,17 @@ Model, aşağıdaki parametreleri girdi olarak kullanarak **Yıllık Gelir** tah
 
 Bu projeyi kendi yerel ortamınızda test etmek ve analizleri incelemek için aşağıdaki adımları izleyebilirsiniz:
 
-## 1. Hazırlık
-Öncelikle projeyi bilgisayarınıza indirin (Klonlayın) ve proje dizinine gidin:
-```bash
-git clone [https://github.com/yakubaltikardes/MaasTahminKDS.git](https://github.com/yakubaltikardes/MaasTahminKDS.git)
-cd MaasTahminKDS```
+1. Hazırlık
+Öncelikle projeyi bilgisayarınıza indirin (Klonlayın) ve proje dizinine gidin
+
+   ```bash
+   ```bash
+    git clone [https://github.com/yakubaltikardes/MaasTahminKDS.git](https://github.com/yakubaltikardes/MaasTahminKDS.git)
+    cd MaasTahminKDS
 
 2. Gerekli Kütüphanelerin Kurulumu
     ```bash
-    pip install numpy pandas seaborn matplotlib scikit-learn xgboost lightgbm catboost```
+    pip install numpy pandas seaborn matplotlib scikit-learn xgboost lightgbm catboost
 
 3. Analizi Başlatma
     ```bash
